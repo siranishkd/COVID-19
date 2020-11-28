@@ -1502,22 +1502,7 @@ As mentioned in limitation 1, using the official IMDB data only provides a small
 
 There is huge potential for directors to use data analytics to understand how to create a successful movie. Currently, our R SHINY application allows a user (i.e director) to specifically sieve elements from the top and bottom movies in each genre. This SHINY app can be further developed to include age, country, duration, specific themes of a movie using word clouds and many other visualisations. This program could be improved to allow directors to add different inputs to analyse the best direction to make a successful movie. On top of analysing the factors to improve ratings, the factors to increase the return of investment can also be added.   
 
-# 9. Contribution Statement
-**Every member contributed equally in their own ways, putting their best foot forward for this project. The contribution statement merely states who took charge of different aspects of this project, but each person was involved in the decision making and ideating process.**
-
-Anish: Modelling for ANOVA and POST-HOC. Transforming graphs into interactive visualisations using ggplotly and igraph. Combined and stich together rmarkdown to create flow. 
-
-Bang: Creating the random generator for selecting genre during the tidy and transform process. Creating the R SHINY app that combined google trends, wordcloud by web scraping data off Rotten Tomatoes. 
-
-Jim Meng: Cleaning, tidying and transforming the data from IMDB. Exploratory data analysis as well as tinkering with the Rmarkdown chunk notations. Scraping Google trends data to be used for R SHINY app. 
-
-Joel: Exploratory Data Visualisation as well as communications aspect of project. Supporting R SHINY and data scraping processes. 
-
-Yi Rui: Continuously brought together the problem statement, flow and dataset to achieve the aim of the project. Modelling for correlation and the various regressions.
-
-**Each member supported the other aspects of this project as and when needed while focusing on their individual strengths to achieve the final aim** 
-
-# 10. References
+# 9. References
 
 > IMDb. (n.d.). *IMDb Datasets.* Retrieved from https://www.imdb.com/interfaces/ \
 > \
